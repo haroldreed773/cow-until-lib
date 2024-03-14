@@ -1,6 +1,6 @@
 {
   "author": "Six Liu",
-  "name": "@aaxis/auth0-spa-js",
+  "name": "@sixwizard/cow-until-lib",
   "description": "Auth0 SDK for Single Page Applications using Authorization Code Grant Flow with PKCE",
   "license": "MIT",
   "version": "1.0.5",
@@ -93,12 +93,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sixwizard/auth0-spa-js.git"
+    "url": "git://github.com/haroldreed773/cow-until-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/sixwizard/auth0-spa-js/issues"
+    "url": "https://github.com/haroldreed773/cow-until-lib/issues"
   },
-  "homepage": "https://github.com/sixwizard/auth0-spa-js#readme",
+  "homepage": "https://github.com/haroldreed773/cow-until-lib#readme",
   "keywords": [
     "auth0",
     "login",
